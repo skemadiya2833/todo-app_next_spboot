@@ -1,0 +1,10 @@
+**/target/**
+**/.project
+**/.factorypath
+**/.classpath
+**/target/
+**/.vscode/
+**/.settings/
+**/bin/
+**/node_modules/**
+**/.next/**
